@@ -5,6 +5,4 @@ pip
 streamlit
 image
 StandardScaler
-train_test_split
-LinearRegression 
 seaborn
