@@ -4,7 +4,6 @@ sklearn
 pip
 streamlit
 image
-pickle
 StandardScaler
 LabelEncoder
 train_test_split
