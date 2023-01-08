@@ -2,7 +2,6 @@ numpy
 pandas
 sklearn
 pip
-upgrade
 streamlit
 image
 pickle
