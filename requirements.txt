@@ -4,5 +4,11 @@ matplotlib.pyplot
 sklearn
 pip
 streamlit
-skicit-learn
-PIL
+image
+pickle
+StandardScaler
+LabelEncoder
+train_test_split
+LinearRegression 
+seaborn
+
